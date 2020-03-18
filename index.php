@@ -32,7 +32,7 @@ curl_close($curl);
 
 <body>
 
-    <h1>Tabel Menu Makanan</h1>
+    <h1>DASHBOARD E-COMMERCE TRILOGI</h1>
     <table border="1">
         <tr>
             <?php foreach ($xml->nama_barang as $barang) : ?>
